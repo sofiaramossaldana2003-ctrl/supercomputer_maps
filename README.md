@@ -6,7 +6,7 @@ Análisis exhaustivo del ranking TOP500 para identificar tendencias geopolítica
 El HPC no es solo potencia de cálculo; es la columna vertebral de la **Inteligencia Artificial**, las simulaciones científicas y la investigación estratégica nacional. Este proyecto procesa más de **28,500 registros históricos** para mapear cómo ha cambiado el dominio tecnológico mundial desde 1993.
 
 ## 🎥 Visualización
-![Resultados del Análisis](assets/Video.mp4)
+![Resultados del Análisis] (assets/Video.mp4)
 
 ## 🛠 Metodología
 A diferencia de los análisis estándar que se limitan a snapshots anuales, este proyecto utiliza el **acumulado histórico** para:
