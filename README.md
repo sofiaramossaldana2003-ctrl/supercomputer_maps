@@ -20,13 +20,4 @@ A diferencia de los análisis estándar que se limitan a snapshots anuales, este
 * **Visualización:** Plotly Express, Bar Chart Race
 * **Entorno:** Google Colab
 
-## 📂 Estructura del Repositorio
-```text
-├── data/
-│   ├── raw/             # Datos originales del TOP500
-│   └── processed/       # Dataset limpio y normalizado
-├── notebooks/
-│   ├── 01_data_cleaning_etl.ipynb
-│   └── 02_visualization_analysis.ipynb
-├── assets/              # Imágenes y video de resultados
-└── README.md
+
